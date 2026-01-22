@@ -1,36 +1,39 @@
 ---
-description: Welcome to your team’s developer platform
+icon: hand-wave
 layout:
-  width: wide
+  width: default
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
-    visible: false
+    visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
-    visible: false
+    visible: true
   metadata:
     visible: true
 metaLinks:
   alternates:
-    - https://app.gitbook.com/s/2AwfWOGBWBxQmyvHedqW/
+    - https://app.gitbook.com/s/yE16Xb3IemPxJWydtPOj/
 ---
 
-# Developer Platform
+# What is EveryX?
 
-<h2 align="center">What is EveryX?</h2>
+EveryX is a different kind of prediction market – built from the ground up to support built-in leverage and real-money trading on event probabilities. Users trade on probabilities of outcomes in sports, crypto, politics, weather, economics, markets, disasters and more!
 
-<p align="center">EveryX is a different kind of prediction market – built from the ground up to support built-in leverage and real-money trading on event probabilities. Users trade on probabilities of outcomes in sports, crypto, politics, weather, economics, markets, disasters and more!</p>
 
-<p align="center"><a href="http://app.gitbook.com/join" class="button primary">Sign up</a> <a href="http://app.gitbook.com/join" class="button secondary">Log in</a></p>
 
-###
+#### What Makes EveryX Different?
 
-<h2 align="center">Join a community of over 3,000 developers</h2>
+* Clear stop-loss behavior- users always know the maximum they can lose and positions are cut with zero slippage
+* No liquidity constraints- with our trading pool logic, there is no need to match your order against other users – nor any market makers. That means your order flow cannot be picked off.
+* You control your risk- feeling cautious? Dial down the leverage and choose a stop-level that you’re comfortable with.&#x20;
+* True predictions- the traded value flowing into each event dictates the outcome’s probabilities. When users trade their convictions, the probabilities necessarily fall into line.
+* Multi-Outcome markets- our system was built with choice in mind – no need to trade only on simple Yes/No outcomes.
+* Trades executed in an instant- our order matching logic processes trades in sub millisecond speeds.
 
-<p align="center">Join our Discord community or create your first PR in just a few steps.</p>
+### Jump right in
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4><i class="fa-discord">:discord:</i></h4></td><td><strong>Discord community</strong></td><td>Join our Discord community to post questions, get help, and share resources with over 3,000 like-minded developers.</td><td><a href="https://www.gitbook.com/" class="button secondary">Join Discord</a></td><td></td></tr><tr><td><h4><i class="fa-github">:github:</i></h4></td><td><strong>GitHub</strong></td><td>Our product is 100% open source and built by developers just like you. Head to our GitHub repository to learn how to submit your first PR.</td><td><a href="https://www.gitbook.com/" class="button secondary">Submit a PR</a></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Getting Started</td><td></td><td></td><td></td><td><a href="/broken/pages/PbYb0GukRhiS4qCHdRal">Broken link</a></td></tr><tr><td><strong>Core Concepts</strong></td><td>Core Concepts</td><td></td><td></td><td></td><td><a href="/broken/pages/9cd78xJdXcJj3KDgKQeA">Broken link</a></td></tr><tr><td><strong>Trading Mechanics</strong></td><td>Trading Mechanics</td><td></td><td></td><td></td><td><a href="/broken/pages/q4N0NMRusWKJthM4Gje6">Broken link</a></td></tr><tr><td></td><td>Platform Info</td><td>Platform Info</td><td></td><td></td><td><a href="/broken/pages/rLD5I5wDQnD0hw7kTlEA">Broken link</a></td></tr></tbody></table>
